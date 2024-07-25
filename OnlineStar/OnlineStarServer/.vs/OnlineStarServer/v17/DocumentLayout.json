@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\OnlineStar_Server_mail\\OnlineStarServer\\",
+  "WorkspaceRootPath": "C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\ServerPortfolio\\OnlineStar\\OnlineStarServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0928A935-4381-462A-8CEF-59DB0C388182}|OnlineStarServer\\OnlineStarServer.vcxproj|C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\OnlineStar_Server_mail\\OnlineStarServer\\OnlineStarServer\\OnlineStarServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0928A935-4381-462A-8CEF-59DB0C388182}|OnlineStarServer\\OnlineStarServer.vcxproj|C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\ServerPortfolio\\OnlineStar\\OnlineStarServer\\OnlineStarServer\\OnlineStarServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0928A935-4381-462A-8CEF-59DB0C388182}|OnlineStarServer\\OnlineStarServer.vcxproj|solutionrelative:OnlineStarServer\\OnlineStarServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "OnlineStarServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\OnlineStar_Server_mail\\OnlineStarServer\\OnlineStarServer\\OnlineStarServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\ServerPortfolio\\OnlineStar\\OnlineStarServer\\OnlineStarServer\\OnlineStarServer.cpp",
               "RelativeDocumentMoniker": "OnlineStarServer\\OnlineStarServer.cpp",
-              "ToolTip": "C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\OnlineStar_Server_mail\\OnlineStarServer\\OnlineStarServer\\OnlineStarServer.cpp",
+              "ToolTip": "C:\\Users\\zzana\\Desktop\\\uD3EC\uD2B8\uD3F4\uB9AC\uC624 \uC815\uB9AC\\Server\\ServerPortfolio\\OnlineStar\\OnlineStarServer\\OnlineStarServer\\OnlineStarServer.cpp",
               "RelativeToolTip": "OnlineStarServer\\OnlineStarServer.cpp",
               "ViewState": "AQIAAPUAAAAAAAAAAAAwwAYBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
