@@ -1,0 +1,25 @@
+﻿  S_R_TCPFighterServer.cpp
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\S_R_TCPFighterServer.cpp(203,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SerializingBuffer.cpp
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(79,45): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(90,36): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(101,37): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(112,46): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(123,35): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(134,36): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(145,45): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(156,37): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(168,39): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(179,38): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(192,44): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(203,35): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(214,36): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(225,45): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(236,34): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(247,35): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(258,44): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(269,36): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(280,38): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\TCPFighterServer\SerializingBuffer.cpp(291,37): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  TCPFighterServer.vcxproj -> C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\TCPFighterServer\Debug\TCPFighterServer.exe
