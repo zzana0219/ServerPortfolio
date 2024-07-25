@@ -1,5 +1,0 @@
-﻿  MouseDraw.cpp
-C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\MouseDraw\MouseDraw\MouseDraw.cpp(88,26): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  RingBuffer.cpp
-  코드를 생성하고 있습니다...
-  MouseDraw.vcxproj -> C:\Users\zzana\Desktop\프로카데미 정리\Procademy\2회차 2코스 코드\MouseDraw\Debug\MouseDraw.exe

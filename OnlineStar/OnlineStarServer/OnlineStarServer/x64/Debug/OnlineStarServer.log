@@ -1,6 +1,0 @@
-﻿  Console.cpp
-  OnlineStarServer.cpp
-C:\Users\zzana\Desktop\포트폴리오 정리\Server\OnlineStar_Server_mail\OnlineStarServer\OnlineStarServer\Console.cpp(34,6): warning C4101: 'iCountX' :참조되지 않은 지역 변수입니다.
-C:\Users\zzana\Desktop\포트폴리오 정리\Server\OnlineStar_Server_mail\OnlineStarServer\OnlineStarServer\Console.cpp(34,15): warning C4101: 'iCountY' :참조되지 않은 지역 변수입니다.
-  코드를 생성하고 있습니다...
-  OnlineStarServer.vcxproj -> C:\Users\zzana\Desktop\포트폴리오 정리\Server\OnlineStar_Server_mail\OnlineStarServer\x64\Debug\OnlineStarServer.exe
